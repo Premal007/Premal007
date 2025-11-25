@@ -61,14 +61,13 @@
 
   An AI-driven mock interview system built with Next.js, VAPI Voice Agent, Firebase, and Gemini API. It conducts voice-based interviews, generates dynamic questions, and provides personalized performance feedback.
 
-🔗 *GitHub:* https://github.com/your-username/interviewprep
-
+🔗 *GitHub:* https://github.com/Premal007/Mock_interview_platform
 
 ###  **🤖 InterviewPrep – AI-Powered Q&A Generator**
 
   A MERN-based platform that generates role-specific interview questions and answers using the Gemini API. Users can save, view, and manage generated Q&A in an interactive and responsive interface.
 
-🔗 *GitHub:* https://github.com/your-username/loadbalancer
+🔗 *GitHub:* https://github.com/Premal007/Interview_prep_AI
 
 ---
 
